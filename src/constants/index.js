@@ -73,21 +73,22 @@ const logoIconsList = [
 
 const abilities = [
     {
-        imgPath: "/images/seo.png",
-        title: "Quality Focus",
-        desc: "Delivering high-quality results while maintaining attention to every detail.",
+        imgPath: "/images/problem-solving.webp",
+        title: "Problem Solving",
+        desc: "Strong analytical thinking with a focus on writing efficient and optimized code.",
     },
     {
-        imgPath: "/images/chat.png",
-        title: "Reliable Communication",
-        desc: "Keeping you updated at every step to ensure transparency and clarity.",
+        imgPath: "/images/learning.jpg",
+        title: "Fast Learner",
+        desc: "Quickly picks up new technologies, tools, and frameworks through hands-on practice.",
     },
     {
-        imgPath: "/images/time.png",
-        title: "On-Time Delivery",
-        desc: "Making sure projects are completed on schedule, with quality & attention to detail.",
+        imgPath: "/images/collaboration.jpg",
+        title: "Team Collaboration",
+        desc: "Experience working in teams during hackathons, college projects and internship projects using Git & GitHub.",
     },
 ];
+
 
 const techStackImgs = [
     {
@@ -148,57 +149,58 @@ const techStackIcons = [
 const expCards = [
     {
         review:
-            "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
-        imgPath: "/images/exp1.png",
-        logoPath: "/images/logo1.png",
-        title: "Frontend Developer",
-        date: "January 2023 - Present",
+            "Santpal played a key role as a full stack developer in our Peer Evaluation System project. His contributions to both backend logic and frontend design were instrumental in delivering a functional and user-friendly system.",
+        imgPath: "/images/peer-eval.png",
+        logoPath: "/images/iitrpr-logo.png",
+        title: "Full Stack Developer – Peer Evaluation System",
+        date: "May 2025 – July 2025",
         responsibilities: [
-            "Developed and maintained user-facing features for the Hostinger website.",
-            "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-            "Optimized web applications for maximum speed and scalability.",
+            "Developed REST APIs using Node.js, Express, and MongoDB for role-based access control.",
+            "Built responsive React components with Tailwind CSS for four different user dashboards.",
+            "Handled image uploads, flagging logic, and evaluation flows for thousands of student submissions.",
         ],
     },
     {
         review:
-            "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
-        imgPath: "/images/exp2.png",
-        logoPath: "/images/logo2.png",
-        title: "Full Stack Developer",
-        date: "June 2020 - December 2023",
+            "At Dimensional Academy, Santpal designed and developed an AI-based furcation detection model, showing remarkable initiative in applying machine learning to real-world dental imaging challenges.",
+        imgPath: "/images/ai-project.png",
+        logoPath: "/images/dimensional-logo.png",
+        title: "AI Intern – Furcation Detection System",
+        date: "January 2025 – April 2025",
         responsibilities: [
-            "Led the development of Docker's web applications, focusing on scalability.",
-            "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-            "Contributed to open-source projects that were used with the Docker ecosystem.",
+            "Preprocessed dental x-ray images and annotated datasets for model training.",
+            "Trained object detection models (YOLOv8) to detect furcations with high precision.",
+            "Built a simple web demo to visualize predictions and assist dental professionals.",
         ],
     },
     {
         review:
-            "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
-        imgPath: "/images/exp3.png",
-        logoPath: "/images/logo3.png",
-        title: "React Native Developer",
-        date: "March 2019 - May 2020",
+            "Santpal consistently demonstrated curiosity and a deep commitment to learning during his time at the Next Tech Lab. His work in quantum computing research and simulations stood out.",
+        imgPath: "/images/quantum.png",
+        logoPath: "/images/nexttech-logo.png",
+        title: "Quantum Computing Associate – Next Tech Lab",
+        date: "June 2024 – April 2025",
         responsibilities: [
-            "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-            "Improved app performance and user experience through code optimization and testing.",
-            "Coordinated with the product team to implement features based on feedback.",
+            "Explored quantum computing principles using Qiskit and IBM Quantum simulators.",
+            "Collaborated with peers to create quantum algorithm demos and basic research notes.",
+            "Presented findings internally and contributed to lab documentation and tutorials.",
         ],
     },
 ];
 
+
 const expLogos = [
     {
         name: "logo1",
-        imgPath: "/images/logo1.png",
+        imgPath: "/images/iitrpr-logo.png",
     },
     {
         name: "logo2",
-        imgPath: "/images/logo2.png",
+        imgPath: "/images/dimensional-logo.png",
     },
     {
         name: "logo3",
-        imgPath: "/images/logo3.png",
+        imgPath: "/images/nexttech-logo.png",
     },
 ];
 
