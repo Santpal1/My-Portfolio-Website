@@ -20,38 +20,15 @@ This project is a modern developer portfolio built using **React** and **Tailwin
 
 ## 🧪 Tech Stack
 
-- **Frontend**: React.js, Vite, Tailwind CSS
+- **Frontend**: React.js, Vite, Tailwind CSS, THreeJS, GSAP
 - **Form Handling**: EmailJS
-- **Icons**: React Icons, Lucide
-- **Deployment**: Vercel / Netlify / GitHub Pages
+- **Icons**: React Icons
+- **Deployment**: AWS
 
-## 🔗 Live Demo
 
-👉 [View Portfolio Live](https://your-portfolio-url.vercel.app)
 
-## 🖼️ Screenshots
 
-| Home Page | Projects Section |
-|-----------|------------------|
-| ![Home](https://your-image-url-home.png) | ![Projects](https://your-image-url-projects.png) |
 
-## 📁 Project Structure
-
-```
-📦 portfolio/
-├── public/
-│   └── index.html
-├── src/
-│   ├── assets/           # Images, icons, etc.
-│   ├── components/       # Reusable UI components
-│   ├── constants/        # Static data (project list, skills, etc.)
-│   ├── pages/            # Major page sections
-│   ├── App.jsx
-│   └── main.jsx
-├── tailwind.config.js
-├── .env
-└── README.md
-```
 
 ## ⚙️ Getting Started
 
@@ -93,19 +70,9 @@ This site can be deployed easily via:
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 - GitHub Pages
+- AWS
 
-## 🙋‍♂️ Contact
 
-Have feedback or want to collaborate? Reach out:
 
-- 📧 santpalkalra@gmail.com
-- 🌐 [LinkedIn](https://linkedin.com/in/santpal-kalra)
-- 🐙 [GitHub](https://github.com/santpal)
-
-## 📝 License
-
-This project is licensed under the **MIT License**.
-
----
 
 > Built by Santpal Singh Kalra
